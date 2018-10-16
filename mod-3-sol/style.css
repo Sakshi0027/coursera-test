@@ -1,0 +1,23 @@
+body {background-color: #960085;}
+#header-nav {background-color: #ac4fff;box-shadow: 0px 0px 80px #18580b;}
+h1{color: #ffbbff;position: relative;margin-top: auto;margin-bottom: auto;
+font-weight: bold;}
+.navbar-brand{height: 70px; }
+#header-nav button {margin-top: 16px;background-color:#ffbbff; }
+#chicken {color: red;}
+#nav-list a {
+    font-weight: bolder;
+    color:#ffbbff ;
+    font-size: 1.5em;
+}
+#nav-list a:hover {
+    color: #660066;
+    background-color: #ffccff;
+}
+h2 {text-align: center;color:#ffbbff;font-weight: bolder;margin-bottom: 100px }
+.row {margin-left: auto;margin-right: auto;background-color: #ff99ff;
+height: 480px;box-shadow: 0px 0px 80px #18580b;padding: 5px;overflow: auto;
+margin-bottom: 10px;}
+
+h3 {text-align: center;font-weight: bold;font-style: italic;}
+p{margin:10px 5px 5px 5px;}
